@@ -1,1 +1,1 @@
-# ideal-octo-waddle
+# lab assignments
